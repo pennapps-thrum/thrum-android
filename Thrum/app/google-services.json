@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "488495643671",
+    "firebase_url": "https://thrum-f2ca4.firebaseio.com",
+    "project_id": "thrum-f2ca4",
+    "storage_bucket": "thrum-f2ca4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:488495643671:android:8eee679375f71dff",
+        "android_client_info": {
+          "package_name": "com.thrum.thrum"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "488495643671-769sqvj8s0j420gqegs2nkbsmdts0de4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4Va-heZohcSoTsdOX0Y0ajdl5Z04R1NM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

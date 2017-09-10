@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Thrum</string>
+    <string name="button_switch_on">ON</string>
+    <string name="button_switch_off">OFF</string>
+</resources>
